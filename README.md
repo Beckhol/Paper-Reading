@@ -31,7 +31,7 @@ Includes papers that have already been exchanged and will be used afterwards. Th
 |  已交流 |年份| 标题 |简介|
 |-------|-------|------|------| 
 |✅|2022|[Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond](https://github.com/Beckhol/Paper-Reading/blob/main/Papers/Causal%20Inference%20in%20Natural%20Language%20ProcessingEstimation%2C%20Prediction%2C%20Interpretation%20and%20Beyond.pdf)|关于因果推断与NLP在社会科学应用时需要注意的问题|
-### Intelligent Agents - NLP
+### Intelligent Agents & LLM - NLP
 |  已交流 |年份| 标题 |简介|
 |-------|-------|------|------| 
 |✅|2023|[Generative agents interactivesimulacra of human behavior](https://github.com/Beckhol/Paper-Reading/blob/main/Papers/generative%20agents%20interactivesimulacra%20of%20human%20behavior.pdf)|斯坦福小镇，关于使用智能代理模拟人类生活| 
