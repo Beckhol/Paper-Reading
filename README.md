@@ -1,4 +1,4 @@
-# 论文精读（Essay intensive reading - Prefer CI）
+# 论文精读（Essay intensive reading - Prefer Causal Inference）
 这里是一群来自世界各地的学生自发组织一个论文阅读小组。内容不仅包括因果推断，也会包括一些大家目前感兴趣的文章。  
 This is a group of students from around the world who have volunteered to organise an essay reading group. The content will include not only causal inference, but also some articles that are of current interest to all of you.  
 📚**研讨方式 (Seminar format)**：  
