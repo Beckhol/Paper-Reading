@@ -6,7 +6,7 @@ This is a group of students from around the world who have volunteered to organi
 Weekly paper discussions will be held for about 2 hours. 2-3 students will lead the reading of the appropriate paper, and everyone can add to their literature notes, and then we will have a Q&A ➕ discussion. Each participant will be required to lead a reading and write notes on the literature.  
 📒**流程安排 (timetable)**：  
 不定期周四 14:00 (德国) | 13:00 UK | 21:00 China 进行会议.    
-Meetings are held on occasional Thursdays at 13:00 (Germany) | 14:00 UK | 22:00 China.  
+Meetings are held on occasional Thursdays at 13:00 (Berlin) | 14:00 UK | 22:00 China.  
 🌲**参与方式 (How to participate)**:  
 如果想参与的同学，可以发送email确认具体信息。  
 email: qy1g18@gmail.com
