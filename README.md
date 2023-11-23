@@ -27,10 +27,11 @@ Includes papers that have already been exchanged and will be used afterwards. Th
 |✅|2017|[Avoiding Discrimination through Causal Reasoning](https://proceedings.neurips.cc/paper/2017/file/f5f8590cd58a54e94377e6ae2eded4d9-Paper.pdf)|关于因果推断在机器学习中的应用时所需要注意到的公平性|
 |✅|2021|[Selecting Data Augmentation for Simulating Interventions](https://github.com/Beckhol/Paper-Reading/blob/main/Papers/DataAugmentation.pdf)|关于因果推断在数据增强中的应用| 
 
-### 因果推断(Causal Inference) - NLP
+### 因果推断(Causal Inference) & Social Science - NLP
 |  已交流 |年份| 标题 |简介|
 |-------|-------|------|------| 
 |✅|2022|[Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond](https://github.com/Beckhol/Paper-Reading/blob/main/Papers/Causal%20Inference%20in%20Natural%20Language%20ProcessingEstimation%2C%20Prediction%2C%20Interpretation%20and%20Beyond.pdf)|关于因果推断与NLP在社会科学应用时需要注意的问题|
+||2023|[Annual Review of Statistics and Its Application Causal Inference in the Social Sciences](https://github.com/Beckhol/Paper-Reading/blob/main/Papers/imbens-2023-causal-inference-in-the-social-sciences.pdf)|年度综述社会科学中的因果推理|
 ### Intelligent Agents & LLM - NLP
 |  已交流 |年份| 标题 |简介|
 |-------|-------|------|------| 
