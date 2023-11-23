@@ -15,6 +15,8 @@ email: qy1g18@gmail.com
 |-------|------|------|------|
 |2023/11/02|[Avoiding Discrimination through Causal Reasoning](https://proceedings.neurips.cc/paper/2017/file/f5f8590cd58a54e94377e6ae2eded4d9-Paper.pdf)|[Fairness CI in Machine Learning](https://github.com/Beckhol/Paper-Reading/blob/main/Reading-Notes/Fairness%20CI%20in%20Machine%20Learning.pdf)|Quan|
 |2023/11/02|[Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond](https://github.com/Beckhol/Paper-Reading/blob/main/Papers/Causal%20Inference%20in%20Natural%20Language%20ProcessingEstimation%2C%20Prediction%2C%20Interpretation%20and%20Beyond.pdf)|[CI in NLP](https://github.com/Beckhol/Paper-Reading/blob/main/Reading-Notes/nlp%26CI.pdf)| Ming Ma |
+|2023/11/23|[Selecting Data Augmentation for Simulating Interventions](https://github.com/Beckhol/Paper-Reading/blob/main/Papers/DataAugmentation.pdf)|[ReadingNotes-FirstPart](https://github.com/Beckhol/Paper-Reading/blob/main/Reading-Notes/Shared_Readings.pdf)|Quan|
+|2023/11/23|[Generative agents interactivesimulacra of human behavior](https://github.com/Beckhol/Paper-Reading/blob/main/Papers/generative%20agents%20interactivesimulacra%20of%20human%20behavior.pdf)|[ReadingNotes-SecondPart](https://github.com/Beckhol/Paper-Reading/blob/main/Reading-Notes/Shared_Readings.pdf)|Quan|
 
 ## 所有论文(All papers)
 包括已经交流过和之后将要使用的论文。选取的原则是由小组成员自己寻找自己的兴趣方向，或者是近期比较有意思的文章。  
@@ -23,7 +25,7 @@ Includes papers that have already been exchanged and will be used afterwards. Th
 |  已交流 |年份| 标题 |简介|
 |-------|-------|------|------| 
 |✅|2017|[Avoiding Discrimination through Causal Reasoning](https://proceedings.neurips.cc/paper/2017/file/f5f8590cd58a54e94377e6ae2eded4d9-Paper.pdf)|关于因果推断在机器学习中的应用时所需要注意到的公平性|
-||2021|[Selecting Data Augmentation for Simulating Interventions](https://github.com/Beckhol/Paper-Reading/blob/main/Papers/DataAugmentation.pdf)|关于因果推断在数据增强中的应用| 
+|✅|2021|[Selecting Data Augmentation for Simulating Interventions](https://github.com/Beckhol/Paper-Reading/blob/main/Papers/DataAugmentation.pdf)|关于因果推断在数据增强中的应用| 
 
 ### 因果推断(Causal Inference) - NLP
 |  已交流 |年份| 标题 |简介|
@@ -32,4 +34,4 @@ Includes papers that have already been exchanged and will be used afterwards. Th
 ### Intelligent Agents - NLP
 |  已交流 |年份| 标题 |简介|
 |-------|-------|------|------| 
-||2023|[Generative agents interactivesimulacra of human behavior](https://github.com/Beckhol/Paper-Reading/blob/main/Papers/generative%20agents%20interactivesimulacra%20of%20human%20behavior.pdf)|斯坦福小镇，关于使用智能代理模拟人类生活| 
+|✅|2023|[Generative agents interactivesimulacra of human behavior](https://github.com/Beckhol/Paper-Reading/blob/main/Papers/generative%20agents%20interactivesimulacra%20of%20human%20behavior.pdf)|斯坦福小镇，关于使用智能代理模拟人类生活| 
