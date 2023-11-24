@@ -5,7 +5,7 @@ This is a group of students from around the world who have volunteered to organi
 每周一次论文讨论，时间为2小时左右。由2-3为同学领读相应的论文，大家可以根据自己的文献笔记进行补充，然后大家一起问答➕讨论。每位参与的朋友都需要领读一次，而且撰写文献阅读笔记。  
 Weekly paper discussions will be held for about 2 hours. 2-3 students will lead the reading of the appropriate paper, and everyone can add to their literature notes, and then we will have a Q&A ➕ discussion. Each participant will be required to lead a reading and write notes on the literature.  
 📒**流程安排 (timetable)**：  
-不定期周四 14:00 (德国) | 13:00 UK | 21:00 China 进行会议.    
+不定期周四 15:00 (德国) | 14:00 UK | 22:00 China 进行会议.    
 Meetings are held on occasional Thursdays at 13:00 (Berlin) | 14:00 UK | 22:00 China.  
 🌲**参与方式 (How to participate)**:  
 如果想参与的同学，可以发送email确认具体信息。  
